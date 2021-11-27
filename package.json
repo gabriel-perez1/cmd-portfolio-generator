@@ -1,0 +1,22 @@
+{
+  "name": "cmd-portfolio-generator",
+  "version": "1.0.0",
+  "description": "generates a portfolio from user input with command line arguments",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-perez1/cmd-portfolio-generator.git"
+  },
+  "author": "Gabriel Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-perez1/cmd-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/gabriel-perez1/cmd-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
